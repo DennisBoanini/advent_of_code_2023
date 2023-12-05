@@ -9,7 +9,9 @@
     "day_2_p1": "node day2/day_2_p1.js",
     "day_2_p2": "node day2/day_2_p2.js",
     "day_3_p1": "node day3/day_3_p1.js",
-    "day_3_p2": "node day3/day_3_p2.js"
+    "day_3_p2": "node day3/day_3_p2.js",
+    "day_4_p1": "node day4/day_4_p1.js",
+    "day_4_p2": "node day4/day_4_p2.js"
   },
   "author": "",
   "license": "ISC"
